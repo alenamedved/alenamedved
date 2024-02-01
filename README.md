@@ -1,7 +1,7 @@
 ### Hello World and Hello You 👋
 
 
-I just want to write simple code, ship new products and features to customers, and improve existing ones
+I just want to write simple and elegant code, ship new products and features to customers, and improve existing ones
 <!--
 **alenamedved/alenamedved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
